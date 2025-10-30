@@ -4,7 +4,7 @@
 ## QR Generator
 
 ```javascript
-javascript:window.open('https://cat-ling.github.io/qr.html?q='+encodeURIComponent(location.href),'_blank','width=500,height=500,top='+(screen.height-500)/2+',left='+(screen.width-500)/2+',resizable=no,scrollbars=no,toolbar=no,menubar=no,location=no,status=no');
+javascript:window.open('https://cat-ling.github.io/qr.html?q='+encodeURIComponent(location.href),'_blank','width=500,height=500,top='+(screen.height-500)/2+',left='+(screen.width-500)/2+',resizable=no,scrollbars=no');
 ```
 ## Delete Github Actions
 
